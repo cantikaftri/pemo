@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Posttest6_045_cantika
 =======
 # simop
@@ -22,3 +23,12 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # test
 >>>>>>> 84e8bb9 (first commit)
+=======
+# pemo
+## Tema    : Eskrim
+## Project : Ice Cream Store 
+## Posttest  : 4
+## Nama      : Cantika Fitri Ayu Darmayanti
+## NIM       : 2009106045
+## Kelas     : Pemo A2
+>>>>>>> 0f4ab44ffcbea1f88637c36a15d571d1fec27be2
