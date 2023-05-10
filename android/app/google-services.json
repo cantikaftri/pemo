@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566425153558",
+    "project_id": "simop-d3e5c",
+    "storage_bucket": "simop-d3e5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566425153558:android:4e3f14d934d9247e0e0537",
+        "android_client_info": {
+          "package_name": "com.example.simop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566425153558-6i1mbal2qf9incl1dt81cqj4e8apj8f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOdujNPlyg4aAH4ADOD4jIHUDaPI8o8AQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566425153558-6i1mbal2qf9incl1dt81cqj4e8apj8f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
